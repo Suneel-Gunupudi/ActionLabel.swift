@@ -1,10 +1,3 @@
-//
-//  ActionLabel.swift
-//  OXYMON
-//
-//  Created by Suneel Gunupudi on 24/07/21.
-//
-
 import UIKit
 
 @IBDesignable
